@@ -1,5 +1,0 @@
-{
-    "require": {
-        "shopify/shopify-api": "^4.3"
-    }
-}
